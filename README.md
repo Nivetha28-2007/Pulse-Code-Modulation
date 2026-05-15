@@ -1,4 +1,3 @@
-<img width="1083" height="823" alt="Screenshot 2026-05-15 152555" src="https://github.com/user-attachments/assets/e90712fe-30c4-4cb7-8e20-c0c9388d7b20" /># Pulse-Code-Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
