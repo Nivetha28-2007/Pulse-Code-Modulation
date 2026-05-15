@@ -116,6 +116,7 @@ plt.show()
 # Output Waveform
 # Pulse-code-Modulation
 <img width="851" height="836" alt="Screenshot 2026-05-15 151818" src="https://github.com/user-attachments/assets/98d323fd-cb49-4631-90bb-1f6c048c313b" />
+
 # Output Waveform
 # Delta-Modulation
 <img width="1083" height="823" alt="Screenshot 2026-05-15 152555" src="https://github.com/user-attachments/assets/85eabaf1-3fa9-4d7f-9750-17407089e69b" />
